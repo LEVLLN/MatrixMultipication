@@ -1,10 +1,10 @@
 Matrix multiplication
 ========
 
-+Two classes : 1) Matrix  2) Runner;
+**Two classes : 1) Matrix  2) Runner;**
 
-+Array processing;
+**Array processing;**
 
-+Matrix fills randomly;
+**Matrix fills randomly;**
 
-+Fixed size of matrix;
+**Fixed size of matrix;**
